@@ -1,0 +1,6 @@
+name: geo_jupyter
+channels:
+  - coda-forge
+dependecies:
+  - python = 3
+  - obspy >= 1.2.0
