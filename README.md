@@ -7,4 +7,4 @@ Ejercicios para el análisis, procesamiento y visualización de datos geofísico
   Esta práctica consiste en el cálculo de la gravedad producida por cada uno de los planetas de e Sistema Solar. Y del efect producido por estos planetas sobre una persona en la superficie terrestre y entre dos personas. 
  
  * Práctica 2
-  Calculo de la marea teórica utilizando TSoft y visualización de datos satelitales.
+  Cálculo de la marea teórica utilizando TSoft y visualización de datos satelitales.
