@@ -4,3 +4,4 @@ channels:
 dependecies:
   - python = 3
   - obspy >= 1.2.0
+  - cartopy >= 0.18.0
