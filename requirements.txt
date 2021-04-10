@@ -1,3 +1,9 @@
-cartopy
 numpy
 matplotlib
+cython
+GEOS
+shapely
+pyshp
+PROJ
+six
+cartopy
