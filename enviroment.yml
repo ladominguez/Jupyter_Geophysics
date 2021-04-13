@@ -2,6 +2,7 @@ name: geo_jupyter
 channels:
   - coda-forge
 dependecies:
-  - python = 3
+  - cartopy
+  - python >=3.6
   - obspy >= 1.2.0
-  - cartopy 
+   
