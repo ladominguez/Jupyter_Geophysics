@@ -3,6 +3,7 @@ channels:
 - coda-forge
 dependecies:
 - python =3
+- scipy = 1.6.2
 - pandas >=1.1.2
 - geopy >= 2.0.0
 - shapely >= 1.7.1
